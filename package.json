@@ -35,5 +35,8 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://api.weatherapi.com"
+  "proxy": "https://api.weatherapi.com",
+  "devDependencies": {
+    "tailwindcss": "^3.4.4"
+  }
 }
